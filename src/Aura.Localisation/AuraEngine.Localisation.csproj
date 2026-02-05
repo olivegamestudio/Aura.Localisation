@@ -8,7 +8,7 @@
 		<LangVersion>latest</LangVersion>
 		<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-		<Title>Aura.Localisation</Title>
+		<Title>AuraEngine.Localisation</Title>
 	</PropertyGroup>
 
 </Project>
