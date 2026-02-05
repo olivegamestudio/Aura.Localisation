@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="src/Aura.Localisation/Aura.Localisation.csproj" />
-  <Project Path="tests/Aura.Localisation.Tests/Aura.Localisation.Tests.csproj" />
-</Solution>

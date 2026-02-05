@@ -24,7 +24,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\..\src\Aura.Localisation\Aura.Localisation.csproj" />
+	  <ProjectReference Include="..\..\src\Aura.Localisation\AuraEngine.Localisation.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>
